@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Flight  API</title>
+</head>
+<body>
+    <h1>Flight List</h1>
+    <ul>
+    <li><a href="/console">H2 Console</a></li>
+    <li><a href="/flights">All Flights Arriving Today</a></li>
+    </ul>
+</body>
+</html>
